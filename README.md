@@ -1,4 +1,15 @@
-### Hi there 👋
+# Hi, I'm Achmad F. Ibrahim 👋
+
+### I'm a software developer.
+
+---
+
+<details open>
+  <summary>Github activity and statistics</summary>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=acfatah&count_private=true&show_icons=true&hide=contribs" />
+  </p>
+</details>
 
 <!--
 **acfatah/acfatah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
