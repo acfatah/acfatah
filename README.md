@@ -6,6 +6,8 @@ I'm mastering __JavaScript__, specifically __ECMAScript__ to utilize the latest
 javascript standards, features and get the advantage of cross-platform
 software development.
 
+Currently I'm busy working with a startup project.
+
 <details>
   <summary>Contact and socials</summary>
   <br>
