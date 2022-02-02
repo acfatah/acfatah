@@ -6,8 +6,6 @@ I'm mastering __JavaScript__, specifically __ECMAScript__ to utilize the latest
 javascript standards, features and get the advantage of cross-platform
 software development.
 
-Currently I'm busy working with a startup project.
-
 <details>
   <summary>Contact and socials</summary>
   <br>
@@ -15,7 +13,7 @@ Currently I'm busy working with a startup project.
     <a href="mailto:acfatah@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" />
     </a>
-    <a href="https://twitter.com/acfatah" target="_blank" href="https://twitter.com/acfatah">
+    <a href="https://twitter.com/acfatah" target="_blank">
       <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
     </a>
   </p>
@@ -29,6 +27,20 @@ Currently I'm busy working with a startup project.
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=acfatah&count_private=true&show_icons=true&hide=contribs" />
   </p>
+</details>
+
+---
+
+<details open>
+  <summary>Current project</summary>
+  <br>
+  <ul>
+    <li>
+      <a href="https://www.org-engine.com" target="_blank">
+        org-engine.com
+      </a> - Organization management software
+    </li>
+  </ul>
 </details>
 
 ---
