@@ -25,7 +25,7 @@ software development.
   <summary>Github activity and statistics</summary>
   <br>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=acfatah&count_private=true&show_icons=true&hide=contribs" />
+    <img src="https://github-readme-stats.vercel.app/api?username=acfatah&count_private=true&show_icons=true&hide=contribs&include_all_commits=true" />
   </p>
 </details>
 
