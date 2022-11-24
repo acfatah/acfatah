@@ -1,6 +1,6 @@
 # Hi, I'm Achmad F. Ibrahim 👋
 
-### I'm a software developer from Malaysia.
+### I'm a Full Stack Web Developer from Malaysia.
 
 I'm mastering __JavaScript__, specifically __ECMAScript__ to utilize the latest
 javascript standards, features and get the advantage of cross-platform
