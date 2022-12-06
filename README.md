@@ -114,7 +114,7 @@ software development.
 ---
 
 <details>
-  <summary>Had experience with these but no longer have interest to continue...</summary>
+  <summary>Had experience with these but no longer using them...</summary>
   <br>
   <p>
     <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
