@@ -1,10 +1,8 @@
 # Hi, I'm Achmad F. Ibrahim 👋
 
-### I'm a Full Stack Web Developer from Malaysia.
+> Experienced Full-stack Developer with a Passion for Turning Business Ideas into Reality
 
-I'm mastering __JavaScript__, specifically __ECMAScript__ to utilize the latest
-javascript standards, features and get the advantage of cross-platform
-software development.
+As a full-stack web developer, I specialize in ES6 JavaScript, Vue 2 and 3, and Ruby on Rails. With DigitalOcean, I develop and deploy web applications and create dynamic and interactive UIs with Vue. My experience in Ruby on Rails delivers seamless back-end experiences. I prioritize scalable and maintainable code using ES6 JavaScript. I leverage my web development expertise and passion for innovation to turn business ideas into reality.
 
 <details>
   <summary>Contact and socials</summary>
