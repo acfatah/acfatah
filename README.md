@@ -44,7 +44,28 @@ As a full-stack web developer, I specialize in ES6 JavaScript, Vue 2 and 3, and 
 ---
 
 <details open>
-  <summary>Currently working with...</summary>
+  <summary>Responsibilities and Experiences</summary>
+  
+  ### Frontend
+
+  * Build and maintain UI components using Vue 2 and Vue 3
+  * Design and maintain UI using the utility-first CSS framework Tailwind CSS
+  * Build and maintain UX features such as drag and drop, element resizing, and zooming
+
+  ### Backend
+
+  * Build and maintain Ruby on Rails web applications and REST APIs
+  * Create and maintain complex SQL queries and records in PostgreSQL
+
+  ### DevOps
+
+  * Set up and maintain Virtual Private Servers on cloud providers such as DigitalOcean
+  * Set up and maintain Ubuntu Server Images to run web applications
+  * Configure Nginx reverse proxy and SSL certificates
+  * Build task and automation scripts using Bash
+  * Set up development environments that closely resemble production.
+  
+  ---
 
   <h3>Languages</h3>
   <p>
@@ -106,21 +127,6 @@ As a full-stack web developer, I specialize in ES6 JavaScript, Vue 2 and 3, and 
     <img alt="Express" src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
     <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
     <img alt="React" src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  </p>
-</details>
-
----
-
-<details>
-  <summary>Had experience with these but no longer using them...</summary>
-  <br>
-  <p>
-    <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-    <img alt="JQuery" src="https://img.shields.io/badge/JQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-    <img alt="Symfony" src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white" />
-    <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-    <img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
   </p>
 </details>
 
