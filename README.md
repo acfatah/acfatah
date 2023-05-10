@@ -36,7 +36,7 @@ As a full-stack web developer, I specialize in ES6 JavaScript, Vue 2 and 3, and 
     <li>
       <a href="https://www.org-engine.com" target="_blank">
         org-engine.com
-      </a> - Organization management software
+      </a> - Company onboarding software
     </li>
   </ul>
 </details>
