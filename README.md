@@ -88,6 +88,7 @@ As a full-stack web developer, I specialize in ES6 JavaScript, Vue 2 and 3, and 
   <h3>Libraries or Frameworks</h3>
   <p>
     <img alt="Vue 3" src="https://img.shields.io/badge/Vue_3-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
+    <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
     <img alt="Rails 7" src="https://img.shields.io/badge/Rails_7-CC0000?style=for-the-badge&logo=rubyonrails" />
     <img alt="Vite" src="https://img.shields.io/static/v1?style=for-the-badge&message=Vite&color=646CFF&logo=Vite&logoColor=FFFFFF&label=" />
   </p>
@@ -120,10 +121,9 @@ As a full-stack web developer, I specialize in ES6 JavaScript, Vue 2 and 3, and 
   </p>
 
   <h3>Currently Exploring and Learning</h3>
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img alt="CircleCI" src="https://img.shields.io/static/v1?style=for-the-badge&message=CircleCI&color=343434&logo=CircleCI&logoColor=FFFFFF&label=" />
-  <img alt="Vitest" src="https://img.shields.io/static/v1?style=for-the-badge&message=Vitest&color=6E9F18&logo=Vitest&logoColor=FFFFFF&label=" />
   <img alt="Astro" src="https://img.shields.io/static/v1?style=for-the-badge&message=Astro&color=FF5D01&logo=Astro&logoColor=FFFFFF&label=" />
+  <img alt="Vitest" src="https://img.shields.io/static/v1?style=for-the-badge&message=Vitest&color=6E9F18&logo=Vitest&logoColor=FFFFFF&label=" />
+  <img alt="CircleCI" src="https://img.shields.io/static/v1?style=for-the-badge&message=CircleCI&color=343434&logo=CircleCI&logoColor=FFFFFF&label=" />
  
 
 </details>
