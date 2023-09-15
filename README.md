@@ -23,7 +23,15 @@ As a full-stack web developer, I specialize in ES6 JavaScript, Vue 2 and 3, and 
   <summary>Github activity and statistics</summary>
   <br>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=acfatah&count_private=true&show_icons=true&hide=contribs&include_all_commits=true" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=acfatah&theme=github" />
+  </p>
+  <p>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=acfatah&theme=github" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=acfatah&theme=github" />
+  </p>
+  <p>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=acfatah&theme=github" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=acfatah&theme=github&utcOffset=8" />
   </p>
 </details>
 
