@@ -37,8 +37,10 @@ As a full-stack web developer, I specialize in ES6 JavaScript, Vue 2 and 3, and 
 
 ---
 
-<details open>
-  <summary>Current project</summary>
+Currently working fulltime at [SHT Engineering Sdn Bhd](https://shtengineering.com.my/) as a Front-end Web Developer.
+
+<details close>
+  <summary>Previous and ongoing projects</summary>
   <br>
   <ul>
     <li>
@@ -52,12 +54,13 @@ As a full-stack web developer, I specialize in ES6 JavaScript, Vue 2 and 3, and 
 ---
 
 <details open>
-  <summary>Responsibilities and Experiences</summary>
+  <summary>Experiences</summary>
   
   ### Frontend
 
+  * Build and maintain front-end UI based on Figma design
   * Build and maintain UI components using Vue 2 and Vue 3
-  * Design and maintain UI using the utility-first CSS framework Tailwind CSS
+  * Design and maintain UI using Tailwind CSS CSS framework
   * Build and maintain UX features such as drag and drop, element resizing, and zooming
 
   ### Backend
@@ -78,7 +81,6 @@ As a full-stack web developer, I specialize in ES6 JavaScript, Vue 2 and 3, and 
   <h3>Languages</h3>
   <p>
     <img alt="ES6" src="https://img.shields.io/badge/es6-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-    <img alt="Ruby" src="https://img.shields.io/badge/ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
     <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
     <img alt="JSON" src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
@@ -89,7 +91,6 @@ As a full-stack web developer, I specialize in ES6 JavaScript, Vue 2 and 3, and 
   <p>
     <img alt="Vue 3" src="https://img.shields.io/badge/Vue_3-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
     <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-    <img alt="Rails 7" src="https://img.shields.io/badge/Rails_7-CC0000?style=for-the-badge&logo=rubyonrails" />
     <img alt="Vite" src="https://img.shields.io/static/v1?style=for-the-badge&message=Vite&color=646CFF&logo=Vite&logoColor=FFFFFF&label=" />
   </p>
 
@@ -116,7 +117,6 @@ As a full-stack web developer, I specialize in ES6 JavaScript, Vue 2 and 3, and 
     <img alt="Bash" src="https://img.shields.io/static/v1?style=for-the-badge&message=GNU+Bash&color=4EAA25&logo=GNU+Bash&logoColor=FFFFFF&label=" />
     <img alt="Nodejs" src="https://img.shields.io/badge/Nodejs-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white" />
     <img alt="NPM" src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=NPM&logoColor=white" />
-    <img alt="RubyGems" src="https://img.shields.io/badge/RubyGems-CC342D?style=for-the-badge&logo=rubygems&logoColor=white" />
     <img alt="Vim" src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" />
   </p>
 
@@ -134,6 +134,9 @@ As a full-stack web developer, I specialize in ES6 JavaScript, Vue 2 and 3, and 
   <summary>Past Experiences</summary>
   <br>
   <p>
+    <img alt="Ruby" src="https://img.shields.io/badge/ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
+    <img alt="Rails 7" src="https://img.shields.io/badge/Rails_7-CC0000?style=for-the-badge&logo=rubyonrails" />
+    <img alt="RubyGems" src="https://img.shields.io/badge/RubyGems-CC342D?style=for-the-badge&logo=rubygems&logoColor=white" />
     <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
     <img alt="MySQL" src="https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=" />
     <img alt="Vuetify" src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white" />
