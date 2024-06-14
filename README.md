@@ -1,8 +1,10 @@
 # Hi, I'm Achmad F. Ibrahim 👋
 
-> Experienced Full-stack Developer with a Passion for Turning Business Ideas into Reality
+> Experienced Full-stack Developer with a Passion for Turning Great Ideas into Reality
 
-As a full-stack web developer, I specialize in ES6 JavaScript, Vue 2 and 3, and Ruby on Rails. With DigitalOcean, I develop and deploy web applications and create dynamic and interactive UIs with Vue. My experience in Ruby on Rails delivers seamless back-end experiences. I prioritize scalable and maintainable code using ES6 JavaScript. I leverage my web development expertise and passion for innovation to turn business ideas into reality.
+A full-stack web developer, specialize in building UI using ES6 JavaScript, and Vue 3. I prioritize scalable and maintainable code using latest features of ECMA script. 
+
+Currently working fulltime at [SHT Engineering Sdn Bhd](https://shtengineering.com.my/) as a Front-end Web Developer.
 
 <details>
   <summary>Contact and socials</summary>
@@ -36,8 +38,6 @@ As a full-stack web developer, I specialize in ES6 JavaScript, Vue 2 and 3, and 
 </details>
 
 ---
-
-Currently working fulltime at [SHT Engineering Sdn Bhd](https://shtengineering.com.my/) as a Front-end Web Developer.
 
 <details close>
   <summary>Previous and ongoing projects</summary>
