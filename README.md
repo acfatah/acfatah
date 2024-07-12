@@ -1,6 +1,6 @@
 # Hi, I'm Achmad F. Ibrahim 👋
 
-> Experienced Full-stack Developer with a Passion for Turning Great Ideas into Reality
+> Experienced Full-stack Developer with growth and builder mindset
 
 A full-stack web developer, specialize in building UI using ES6 JavaScript, and Vue 3. I prioritize scalable and maintainable code using latest features of ECMA script. 
 
