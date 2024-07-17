@@ -40,7 +40,7 @@ Currently working fulltime at [SHT Engineering Sdn Bhd](https://shtengineering.c
 ---
 
 <details close>
-  <summary>Previous and ongoing projects</summary>
+  <summary>Ongoing or previous projects</summary>
   <br>
   <ul>
     <li>
