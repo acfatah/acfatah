@@ -13,6 +13,9 @@ Currently working fulltime at [SHT Engineering Sdn Bhd](https://shtengineering.c
     <a href="mailto:acfatah@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" />
     </a>
+    <a href="https://www.linkedin.com/in/acfatah" target="_blank">
+      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
     <a href="https://twitter.com/acfatah" target="_blank">
       <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
     </a>
