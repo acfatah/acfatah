@@ -4,7 +4,7 @@
 
 A full-stack web developer, specialize in building UI using ES6 JavaScript, and Vue 3. I prioritize scalable and maintainable code using latest features of ECMA script. 
 
-Currently working fulltime at [SHT Engineering Sdn Bhd](https://shtengineering.com.my/) as a Front-end Web Developer.
+Currently working fulltime at [SHT Engineering Sdn Bhd](https://shtengineering.com.my/) as a Mid Level Front-end Web Developer.
 
 <details>
   <summary>Contact and socials</summary>
