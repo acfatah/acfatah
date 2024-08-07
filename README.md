@@ -2,7 +2,8 @@
 
 > Experienced Full-stack Developer with growth and builder mindset
 
-A full-stack web developer, specialize in building UI using ES6 JavaScript, and Vue 3. I prioritize scalable and maintainable code using latest features of ECMA script. 
+A full-stack web developer, specialize in building User Interface using Modern JavaScript, and Vue 3.<br>
+I write scalable and maintainable code using latest features of ECMA script. 
 
 Currently working fulltime at [SHT Engineering Sdn Bhd](https://shtengineering.com.my/) as a Mid Level Front-end Web Developer.
 
