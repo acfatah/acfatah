@@ -39,6 +39,9 @@ Currently working fulltime at [SHT Engineering Sdn Bhd](https://shtengineering.c
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=acfatah&theme=github" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=acfatah&theme=github&utcOffset=8" />
   </p>
+  <p>
+    <img src="[http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=acfatah&theme=github](https://codeium.com/profile/acfatah/card.png)" />
+  </p>
 </details>
 
 ---
