@@ -47,6 +47,15 @@ Currently working fulltime at [SHT Engineering Sdn Bhd](https://shtengineering.c
     <!-- <figcaption>Gitlab Private Repository</figcaption> -->
   </figure>
   
+  <h3>CodeTime</h3>
+  <p>
+    <div>
+      <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/961643/360166374-43882504-cd12-4c58-be22-ac20dbe631ef.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240822%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240822T000451Z&X-Amz-Expires=300&X-Amz-Signature=375c0c86805e65afbd6daca4d2ade3a3c8ae1a6a00ea0e42e8cbfec1f8e22022&X-Amz-SignedHeaders=host&actor_id=0&key_id=0&repo_id=0" width="700" />
+    </div>
+  </p>
+
+  
+  
   <h3>Codeium AI</h3>
   <p>
     <div>
