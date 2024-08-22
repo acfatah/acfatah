@@ -59,7 +59,9 @@ Currently working fulltime at [SHT Engineering Sdn Bhd](https://shtengineering.c
   <h3>Codeium AI</h3>
   <p>
     <div>
-      <img src="https://codeium.com/profile/acfatah/card.png" width="700" />
+      <a href="=https://codeium.com/profile/acfatah" target="_blank">
+        <img src="https://codeium.com/profile/acfatah/card.png" width="700" />
+      </a>
     </div>
   </p>
 </details>
