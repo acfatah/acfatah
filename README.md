@@ -43,7 +43,7 @@ Currently working fulltime at [SHT Engineering Sdn Bhd](https://shtengineering.c
   <h3>Gitlab Private Repository</h3>
   <figure>
     <!-- <img src="https://gist.github.com/user-attachments/assets/a12e0246-08dd-4e3f-b736-72d596a0cf81" alt="Gitlab Private Repository"> -->
-    <img src="https://gist.github.com/user-attachments/assets/ed8a4107-b111-46ea-a5e0-a5c55fdc6281" width="700" alt="Gitlab Private Repository"><br>
+    <img src="https://private-user-images.githubusercontent.com/961643/362154022-ed8a4107-b111-46ea-a5e0-a5c55fdc6281.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQ4MjU1NTQsIm5iZiI6MTcyNDgyNTI1NCwicGF0aCI6Ii85NjE2NDMvMzYyMTU0MDIyLWVkOGE0MTA3LWIxMTEtNDZlYS1hNWUwLWE1YzU1ZmRjNjI4MS5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwODI4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDgyOFQwNjA3MzRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wNGQ0MDU3ODBlZDM2MzM1NTEwOWVjYjI3YTdmYjdkYTQ0ZjgzNmFmOTZjYjJmZWI5NTVhMjA2YjY0MTc4M2U0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.KmEFikO6NhsZ2X1cOkQZkHq5_jN6pkNyf0fbj19umV0" width="700" alt="Gitlab Private Repository"><br>
     <!-- <figcaption>Gitlab Private Repository</figcaption> -->
   </figure>
   
