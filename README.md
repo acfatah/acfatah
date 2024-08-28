@@ -50,7 +50,7 @@ Currently working fulltime at [SHT Engineering Sdn Bhd](https://shtengineering.c
   <h3>CodeTime</h3>
   <p>
     <div>
-      <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/961643/360166374-43882504-cd12-4c58-be22-ac20dbe631ef.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240822%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240822T000451Z&X-Amz-Expires=300&X-Amz-Signature=375c0c86805e65afbd6daca4d2ade3a3c8ae1a6a00ea0e42e8cbfec1f8e22022&X-Amz-SignedHeaders=host&actor_id=0&key_id=0&repo_id=0" width="700" />
+      <img src="https://private-user-images.githubusercontent.com/961643/362154745-25aed40a-1eaf-4c9b-af23-d0c45ce9a35f.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQ4MjU2MzAsIm5iZiI6MTcyNDgyNTMzMCwicGF0aCI6Ii85NjE2NDMvMzYyMTU0NzQ1LTI1YWVkNDBhLTFlYWYtNGM5Yi1hZjIzLWQwYzQ1Y2U5YTM1Zi5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwODI4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDgyOFQwNjA4NTBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00ZTllNGFmZGFkMjg1NDdlNDBiY2MzOWI5MWE5MzQ1YTM0MzEwY2I3YTUyYjVhZGQyNDUxOTRkODgyYjI0MjI5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.uZARgIkVPZ8nflw0QU0GeQOCnlKMhs8O7gpYzaeudwg" width="700" />
     </div>
   </p>
 
