@@ -43,7 +43,7 @@ Currently working fulltime at [SHT Engineering Sdn Bhd](https://shtengineering.c
   <h3>Gitlab Private Repository</h3>
   <figure>
     <!-- <img src="https://gist.github.com/user-attachments/assets/a12e0246-08dd-4e3f-b736-72d596a0cf81" alt="Gitlab Private Repository"> -->
-    <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/961643/360163934-a12e0246-08dd-4e3f-b736-72d596a0cf81.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240821%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240821T234937Z&X-Amz-Expires=300&X-Amz-Signature=a37354224a1c057f6d16efd27e1907775034f3fc63abe23808656d90f99f3e9d&X-Amz-SignedHeaders=host&actor_id=0&key_id=0&repo_id=0" width="700" alt="Gitlab Private Repository"><br>
+    <img src="https://gist.github.com/user-attachments/assets/ed8a4107-b111-46ea-a5e0-a5c55fdc6281" width="700" alt="Gitlab Private Repository"><br>
     <!-- <figcaption>Gitlab Private Repository</figcaption> -->
   </figure>
   
