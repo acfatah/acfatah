@@ -49,7 +49,7 @@ Currently working fulltime at [SHT Engineering Sdn Bhd](https://shtengineering.c
   <h3>CodeTime</h3>
   <p>
     <div>
-      <img src="[https://postimg.cc/gxdy4gKY](https://i.postimg.cc/mg1dLqzF/codetime-stats-20240822.jpg)" width="700" />
+      <img src="https://i.postimg.cc/mg1dLqzF/codetime-stats-20240822.jpg" width="700" />
     </div>
   </p>
 
