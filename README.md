@@ -2,8 +2,9 @@
 
 > Experienced Full-stack Developer with growth and builder mindset
 
-A full-stack web developer, specialize in building User Interface using Modern JavaScript, and Vue 3.<br>
-I write scalable and maintainable code using latest features of ECMA script. 
+Experienced Vue.js front-end developer with a full-stack background, skilled in building scalable 
+web apps using Vue 3 and ES6. Focused on creating maintainable UI components and delivering high-quality 
+user experiences.
 
 Currently working fulltime at [SHT Engineering Sdn Bhd](https://shtengineering.com.my/) as a Mid Level Front-end Web Developer.
 
@@ -49,7 +50,7 @@ Currently working fulltime at [SHT Engineering Sdn Bhd](https://shtengineering.c
   <h3>CodeTime</h3>
   <p>
     <div>
-      <img src="https://i.postimg.cc/mg1dLqzF/codetime-stats-20240822.jpg" width="700" />
+      <img src="https://i.postimg.cc/J4CpTWjV/codetime-stats-20240822.jpg" width="700" />
     </div>
   </p>
 
