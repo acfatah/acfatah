@@ -43,14 +43,14 @@ Currently working fulltime at [SHT Engineering Sdn Bhd](https://shtengineering.c
   
   <h3>Gitlab Private Repository</h3>
   <figure>
-    <img src="https://i.postimg.cc/q7f1zLyD/gitlab-stats-20240822.jpg" width="700" alt="Gitlab Private Repository"><br>
+    <img src="gitlab-stats-20240822.jpg" width="700" alt="Gitlab Private Repository"><br>
     <!-- <figcaption>Gitlab Private Repository</figcaption> -->
   </figure>
   
   <h3>CodeTime</h3>
   <p>
     <div>
-      <img src="https://i.postimg.cc/J4CpTWjV/codetime-stats-20240822.jpg" width="700" />
+      <img src="codetime-stats-20240822.jpg" width="700" />
     </div>
   </p>
 
