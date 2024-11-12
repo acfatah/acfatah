@@ -53,7 +53,7 @@ I am currently seeking new opportunities to further develop my expertise in fron
   <h3>CodeTime</h3>
   <p>
     <div>
-      <img src="codetime-stats-20240822.jpg" width="700" />
+      <img src="codetime-stats-20241112.png" width="700" />
     </div>
   </p>
 
