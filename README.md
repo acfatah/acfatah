@@ -1,12 +1,15 @@
 # Hi, I'm Achmad F. Ibrahim 👋
 
-> Experienced Full-stack Developer with growth and builder mindset
+> Experienced mid-level Vue.js Front-end Developer with a full-stack experience.
 
-Experienced Vue.js front-end developer with a full-stack background, skilled in building scalable 
-web apps using Vue 3 and ES6. Focused on creating maintainable UI components and delivering high-quality 
-user experiences.
+I'm a mid-level Vue.js front-end developer with a full-stack experience, skilled 
+in building scalable, maintainable web applications using Vue 3 and modern ES6 JavaScript. 
+I am focused on creating seamless user experiences and high-quality UI components. 
+I have collaborated closely with UI/UX teams to translate design mockups into fully 
+functional front-end applications and have experience working alongside back-end teams to 
+ensure smooth, efficient project delivery. 
 
-Currently working fulltime at [SHT Engineering Sdn Bhd](https://shtengineering.com.my/) as a Mid Level Front-end Web Developer.
+I am currently seeking new opportunities to further develop my expertise in front-end development.
 
 <details>
   <summary>Contact and socials</summary>
@@ -41,7 +44,7 @@ Currently working fulltime at [SHT Engineering Sdn Bhd](https://shtengineering.c
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=acfatah&theme=github&utcOffset=8" />
   </p>
   
-  <h3>Gitlab Private Repository</h3>
+  <h3>GitLab Project Under NDA for Government Work</h3>
   <figure>
     <img src="gitlab-stats-20240822.jpg" width="700" alt="Gitlab Private Repository"><br>
     <!-- <figcaption>Gitlab Private Repository</figcaption> -->
