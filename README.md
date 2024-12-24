@@ -10,9 +10,6 @@ Analysts to refine requirements and align on project goals. Additionally, I have
 working with back-end teams to integrate REST APIs, ensuring smooth, efficient project delivery 
 and robust data flow between client and server.
 
-> [!NOTE]
-> I am currently seeking new opportunities to further develop my expertise in front-end development.
-
 <details>
   <summary>Contact and socials</summary>
   <br>
