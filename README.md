@@ -1,14 +1,19 @@
 # Hi, I'm Achmad F. Ibrahim 👋
 
-I'm an experienced mid-level Vue.js front-end developer with a full-stack experience, skilled 
-in building scalable, maintainable web applications using Vue 3 and modern ES6 JavaScript. 
-I am focused on creating seamless user experiences and high-quality UI components. 
+> Vue.js Specialist | TypeScript Enthusiast | Full-stack Web Innovator
 
-I have experience collaborating with UI/UX teams to translate Figma design mockups into 
-fully functional Vue.js front-end applications and worked alongside Business Analysts and System 
-Analysts to refine requirements and align on project goals. Additionally, I have experience 
-working with back-end teams to integrate REST APIs, ensuring smooth, efficient project delivery 
-and robust data flow between client and server.
+I'm an experienced mid-level Vue.js front-end developer with a full-stack experience, 
+skilled in building scalable, maintainable web applications using Vue 3 and modern 
+ES6 JavaScript. I am focused on creating seamless user experiences and high-quality 
+UI components. 
+
+I have experience collaborating with UI/UX teams to translate Figma design mockups 
+into fully functional Vue.js front-end applications and worked alongside Business 
+Analysts and System Analysts to refine requirements and align on project goals. 
+
+Additionally, I have experience working with back-end teams to integrate REST APIs, 
+ensuring smooth, efficient project delivery and robust data flow between client 
+and server.
 
 <details>
   <summary>Contact and socials</summary>
