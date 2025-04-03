@@ -57,7 +57,7 @@ and server.
   <h3>CodeTime</h3>
   <p>
     <div>
-      <img src="codetime-stats-20241112.png" width="700" />
+      <img src="codetime-stats-202504030848.png" width="700" />
     </div>
   </p>
 
