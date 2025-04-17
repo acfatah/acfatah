@@ -1,6 +1,6 @@
 # Hi, I'm Achmad F. Ibrahim 👋
 
-> Vue.js Specialist | TypeScript Enthusiast | Full-stack Web Innovator
+> Vue.js Specialist | Front-End Craftsman | TypeScript Enthusiast | Full-stack Capable
 
 I'm an experienced mid-level Vue.js front-end developer with a full-stack experience, 
 skilled in building scalable, maintainable web applications using Vue 3 and modern 
