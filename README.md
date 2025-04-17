@@ -130,6 +130,7 @@ and server.
     <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
     <img alt="ESLint" src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" />
     <img alt="Vite" src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
+    <img alt="ShadcnUI" src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
   </p>
 
   <h3>Softwares</h3>
@@ -172,7 +173,6 @@ and server.
 <!--   <img alt="Astro" src="https://img.shields.io/static/v1?style=for-the-badge&message=Astro&color=FF5D01&logo=Astro&logoColor=FFFFFF&label=" /> -->
 <!--   <img alt="Vitest" src="https://img.shields.io/static/v1?style=for-the-badge&message=Vitest&color=6E9F18&logo=Vitest&logoColor=FFFFFF&label=" /> -->
 <!--   <img alt="CircleCI" src="https://img.shields.io/static/v1?style=for-the-badge&message=CircleCI&color=343434&logo=CircleCI&logoColor=FFFFFF&label=" /> -->
- <img alt="ShadcnUI" src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
  <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
  
