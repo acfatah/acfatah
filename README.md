@@ -1,15 +1,15 @@
-# Hi, I'm Achmad F. Ibrahim 👋
+# Hi, I'm Achmad Fatah 👋
 
 > Vue.js Specialist | Front-End Craftsman | TypeScript Enthusiast | Full-stack Capable
 
 I'm an experienced mid-level Vue.js front-end developer with a full-stack experience, 
-skilled in building scalable, maintainable web applications using Vue 3 and modern 
-ES6 JavaScript. I am focused on creating seamless user experiences and high-quality 
-UI components. 
+specialized in building scalable, maintainable web application components using Vue 3 and 
+TypeScript.
 
-I have experience collaborating with UI/UX teams to translate Figma design mockups 
-into fully functional Vue.js front-end applications and worked alongside Business 
-Analysts and System Analysts to refine requirements and align on project goals. 
+I have experience working in a team, collaborating with UI/UX designers to translate 
+Figma design mockups into fully functional Vue.js front-end applications and worked 
+alongside Business Analysts and System Analysts to refine requirements and align on 
+project goals. 
 
 Additionally, I have experience working with back-end teams to integrate REST APIs, 
 ensuring smooth, efficient project delivery and robust data flow between client 
@@ -19,11 +19,11 @@ and server.
   <summary>Contact and socials</summary>
   <br>
   <p>
-    <a href="mailto:acfatah@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" />
-    </a>
     <a href="https://www.linkedin.com/in/acfatah" target="_blank">
       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:acfatah@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" />
     </a>
     <a href="https://twitter.com/acfatah" target="_blank">
       <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
