@@ -1,6 +1,6 @@
 # Hi, I'm Achmad Fatah 👋
 
-> Vue.js Specialist | Front-End Craftsman | TypeScript Enthusiast | Full-stack Capable
+> Vue.js Front-end Specialist | TypeScript Enthusiast | Full-stack Experienced
 
 I'm an experienced mid-level Vue.js front-end developer with a full-stack experience, 
 specialized in building scalable, maintainable web application components using Vue 3 and 
@@ -63,11 +63,11 @@ and server.
 
   
   
-  <h3>Codeium AI</h3>
+  <h3>Winsurf AI</h3>
   <p>
     <div>
-      <a href="=https://codeium.com/profile/acfatah" target="_blank">
-        <img src="https://codeium.com/profile/acfatah/card.png" width="700" />
+      <a href="https://windsurf.com/profile/acfatah" target="_blank">
+        <img src="https://windsurf.com/profile/acfatah/card.png" width="700" />
       </a>
     </div>
   </p>
