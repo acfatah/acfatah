@@ -54,10 +54,10 @@ and server.
     <!-- <figcaption>Gitlab Private Repository</figcaption> -->
   </figure>
   
-  <h3>CodeTime</h3>
+  <h3>CodeTime (2025-07-17)</h3>
   <p>
     <div>
-      <img src="codetime-stats-202504030848.png" width="700" />
+      <img src="codetime-stats-202507170850.jpg" width="700" />
     </div>
   </p>
 
