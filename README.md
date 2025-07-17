@@ -1,8 +1,21 @@
-# Hi, I'm Achmad Fatah 👋
+<div align="center">
+  <h1>Hi, I'm Achmad Fatah 👋</h1>
+</div>
 
-> Vue.js Front-end Specialist | TypeScript Enthusiast | Full-stack Experienced
+<div align="center">
+  <a href="#languages">
+  	<img width="80" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vue_js.png" alt="Vue.js" title="Vue.js"
+      /><img width="80" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" alt="TypeScript" title="TypeScript"
+      /><img width="80" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bun_js.png" alt="Bun.js" title="Bun.js"
+      /><img width="80" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/digital_ocean.png" alt="Digital Ocean" title="Digital Ocean"/>
+  </a>
+</div>
 
-<p>
+<div align="center">
+  <h3>Vue.js Front-end Specialist | TypeScript Enthusiast | Full-stack Experienced</h3>
+</div>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/acfatah" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:acfatah@gmail.com" target="_blank">
@@ -24,11 +37,11 @@ Additionally, I have experience working with back-end teams to integrate REST AP
 ensuring smooth, efficient project delivery and robust data flow between client 
 and server.
 
-<p>
+<p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=acfatah&theme=github" />
 </p>
 
-<details>
+<details align="center">
   <summary>Other statistics</summary>
   <h3>Github</h3>
   <p>
@@ -65,24 +78,20 @@ and server.
 -->
 </details>
 
----
+<h2>Ongoing or previous projects</h2>
 
-<details close>
-  <summary>Ongoing or previous projects</summary>
-  <br>
-  <ul>
-    <li>
-      <a href="https://www.org-engine.com" target="_blank">
-        org-engine.com
-      </a> - Company onboarding software
-    </li>
-  </ul>
-</details>
-
----
+<ul>
+  <li>
+    <a href="https://www.org-engine.com" target="_blank">
+      org-engine.com
+    </a> - Company onboarding software
+  </li>
+</ul>
 
 <details open>
-  <summary>Experiences</summary>
+  <summary>
+    <h2>Experiences</h2>
+  </summary>
   
   ### Frontend
 
