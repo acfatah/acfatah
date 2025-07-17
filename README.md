@@ -2,6 +2,15 @@
 
 > Vue.js Front-end Specialist | TypeScript Enthusiast | Full-stack Experienced
 
+<p>
+  <a href="https://www.linkedin.com/in/acfatah" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:acfatah@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
+  <a href="https://twitter.com/acfatah" target="_blank">
+    <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+</p>
+
 I'm an experienced mid-level Vue.js front-end developer with a full-stack experience, 
 specialized in building scalable, maintainable web application components using Vue 3 and 
 TypeScript.
@@ -15,30 +24,13 @@ Additionally, I have experience working with back-end teams to integrate REST AP
 ensuring smooth, efficient project delivery and robust data flow between client 
 and server.
 
+<p>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=acfatah&theme=github" />
+</p>
+
 <details>
-  <summary>Contact and socials</summary>
-  <br>
-  <p>
-    <a href="https://www.linkedin.com/in/acfatah" target="_blank">
-      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="mailto:acfatah@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" />
-    </a>
-    <a href="https://twitter.com/acfatah" target="_blank">
-      <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-    </a>
-  </p>
-</details>
-
----
-
-<details open>
-  <summary>Github activity and other statistics</summary>
+  <summary>Other statistics</summary>
   <h3>Github</h3>
-  <p>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=acfatah&theme=github" />
-  </p>
   <p>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=acfatah&theme=github" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=acfatah&theme=github" />
@@ -61,8 +53,7 @@ and server.
     </div>
   </p>
 
-  
-  
+<!--
   <h3>Winsurf AI</h3>
   <p>
     <div>
@@ -71,6 +62,7 @@ and server.
       </a>
     </div>
   </p>
+-->
 </details>
 
 ---
