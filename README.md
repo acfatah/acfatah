@@ -26,18 +26,14 @@
     <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
 
-I'm an experienced mid-level Vue.js front-end developer with a full-stack experience, 
-specialized in building scalable, maintainable web application components using Vue 3 and 
-TypeScript.
+I’m a front-end-focused full-stack developer with 4+ years of experience 
+building interactive web applications, design systems, and backend services. 
 
-I have experience working in a team, collaborating with UI/UX designers to translate 
-Figma design mockups into fully functional Vue.js front-end applications and worked 
-alongside Business Analysts and System Analysts to refine requirements and align on 
-project goals. 
+I architect UI libraries in Vue + TypeScript, craft scalable REST APIs with 
+Bun & Hono, and manage secure infrastructure on DigitalOcean and Cloudflare.
 
-Additionally, I have experience working with back-end teams to integrate REST APIs, 
-ensuring smooth, efficient project delivery and robust data flow between client 
-and server.
+I thrive on optimizing DX, automating workflows, and delivering polished, 
+modular systems — all while staying up to date with the latest technologies.
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=acfatah&theme=github" />
@@ -80,6 +76,49 @@ and server.
 -->
 </details>
 
+
+## My Current Stacks and What I Do
+
+### Front-end
+
+- Build and maintain UI components in Vue and TypeScript, based on ShadCN-Vue.
+- Implement and customize designs using TailwindCSS.
+- Manage state using Pinia.
+- Build accessible UIs that comply with WCAG using the headless reka-ui component library.
+- Apply component-based architecture: compose UI components into blocks and 
+  combine them into complete pages.
+- Implement micro-frontend or modular monolith front-end architectures.
+- Integrate RESTful APIs.
+- Perform component testing and documentation using Storybook.
+
+### Backend
+
+- Create REST API services using Hono, TypeScript, and Bun.sh.
+- Use Zod for input validation on both the frontend and backend.
+- Set up and manage user authentication using Better Auth.
+- Manage database creation and migrations using Drizzle and SQLite.
+- Write unit, integration, and E2E tests to ensure the application fulfills 
+  specifications.
+
+### DevOps
+
+- Set up development environments that closely resemble production.
+- Set up and manage Linux virtual private servers on DigitalOcean.
+- Configure and manage Nginx reverse proxies and SSL certificates using Certbot.
+- Set up CI/CD workflows using GitHub Actions.
+- Create automation scripts using Bash and TypeScript.
+- Manage domains, DNS, and network security using the Cloudflare platform.
+- Perform routine server backups.
+- Monitor and log traffic using GoAccess.
+
+### Development Approach
+
+- I follow [standards and guidelines](https://github.com/acfatah/conventions-standards-and-guidelines)
+  to write code.
+- Practice [spec-driven development](https://github.com/acfatah/spec-driven-development).
+- Use AI-assisted programming.
+- Work in a fully TypeScript environment powered by Bun.sh.
+
 <h2>Ongoing or previous projects</h2>
 
 <ul>
@@ -90,34 +129,18 @@ and server.
   </li>
 </ul>
 
-<details open>
-  <summary>
-    <h2>Experiences</h2>
-  </summary>
-  
-  ### Frontend
+## Experience and Skills
 
-  * Build and maintain front-end UI based on Figma design
-  * Build and maintain UI components using Vue 2 and Vue 3
-  * Design and maintain UI using Tailwind CSS CSS framework
-  * Build and maintain UX features such as drag and drop, element resizing, and zooming
+I have experience working in a team, collaborating with UI/UX designers to 
+translate Figma design mockups into fully functional Vue.js front-end 
+applications and worked alongside Business Analysts and System Analysts to 
+refine requirements and align on project goals.
 
-  ### Backend
+Additionally, I have experience working with back-end teams to integrate 
+REST APIs, ensuring smooth, efficient project delivery and robust data flow 
+between client and server.
 
-  * Build and maintain Ruby on Rails web applications and REST APIs
-  * Create and maintain complex SQL queries and records in PostgreSQL
-
-  ### DevOps
-
-  * Set up and maintain Virtual Private Servers on cloud providers such as DigitalOcean
-  * Set up and maintain Ubuntu Server Images to run web applications
-  * Configure Nginx reverse proxy and SSL certificates
-  * Build task and automation scripts using Bash
-  * Set up development environments that closely resemble production.
-  
-  ---
-
-  <h3>Languages</h3>
+<h3>Languages</h3>
   <p>
     <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
     <img alt="ES6" src="https://img.shields.io/badge/es6-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -165,25 +188,26 @@ and server.
   </p>
   
   <h3>Version Control</h3>
+  <p>
     <img alt="Github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
     <img alt="GitLab" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" />
+  </p>
   
   <h3>IDE and Tools</h3>
+  <p>
     <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
     <img alt="Vim" src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" />
+  </p>
 
   <h3>Currently Exploring and Learning</h3>
+  <p>
 <!--   <img alt="Astro" src="https://img.shields.io/static/v1?style=for-the-badge&message=Astro&color=FF5D01&logo=Astro&logoColor=FFFFFF&label=" /> -->
 <!--   <img alt="Vitest" src="https://img.shields.io/static/v1?style=for-the-badge&message=Vitest&color=6E9F18&logo=Vitest&logoColor=FFFFFF&label=" /> -->
 <!--   <img alt="CircleCI" src="https://img.shields.io/static/v1?style=for-the-badge&message=CircleCI&color=343434&logo=CircleCI&logoColor=FFFFFF&label=" /> -->
- <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
- <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+   <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+   <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  </p>
  
- 
-</details>
-
----
-
 <details closed>
   <summary>Past Experiences</summary>
   <br>
