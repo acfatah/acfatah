@@ -129,6 +129,21 @@ modular systems — all while staying up to date with the latest technologies.
   </li>
 </ul>
 
+<h1>Templates / Boilerplates</h1>
+
+<ul>
+  <li>
+    <a href="https://github.com/acfatah/bun-ts" target="_blank">
+      bun-ts
+    </a> - Boilerplate for creating a TypeScript program with Bun.
+  </li>
+  <li>
+    <a href="https://github.com/acfatah/bun-vue" target="_blank">
+      bun-ts
+    </a> - Registry for shadcn/ui, which focus on Bun, TypeScript and Vue 3.
+  </li>
+</ul>
+
 ## Experience and Skills
 
 I have experience working in a team, collaborating with UI/UX designers to 
