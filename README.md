@@ -119,7 +119,7 @@ modular systems — all while staying up to date with the latest technologies.
 - Use AI-assisted programming.
 - Work in a fully TypeScript environment powered by Bun.sh.
 
-<h2>Ongoing or previous projects</h2>
+<h2>Previous Projects</h2>
 
 <ul>
   <li>
