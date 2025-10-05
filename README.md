@@ -14,7 +14,7 @@
 </div>
 
 <div align="center">
-  <h3>Vue.js Front-end Specialist | TypeScript Enthusiast | Full-stack Experienced</h3>
+  <h3>Vue.js Front-end Specialist | TypeScript Enthusiast | Full-stack Developer</h3>
 </div>
 
 <p align="center">
