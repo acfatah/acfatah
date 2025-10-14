@@ -26,14 +26,18 @@
     <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
 
-I’m a front-end-focused full-stack developer with 4+ years of experience 
-building interactive web applications, design systems, and backend services. 
+I’m a front-end-focused full-stack developer with 4+ years of hands-on 
+experience — self-taught through real-world projects, deep experimentation, and 
+continuous learning.
 
-I architect UI libraries in Vue + TypeScript, craft scalable REST APIs with 
-Bun & Hono, and manage secure infrastructure on DigitalOcean and Cloudflare.
+I’ve built my expertise through self-directed learning and practical 
+experience — architecting UI libraries in Vue + TypeScript, crafting scalable 
+REST APIs using Bun & Hono, managing secure infrastructure using Cloudflare, and
+deploying servers on DigitalOcean and Alibaba cloud platforms.
 
 I thrive on optimizing DX, automating workflows, and delivering polished, 
-modular systems — all while staying up to date with the latest technologies.
+modular systems — all while staying up to date with the latest technologies 
+like Bun, Hono, and emerging meta-frameworks.
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=acfatah&theme=github" />
