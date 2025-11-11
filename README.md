@@ -143,7 +143,7 @@ like Bun, Hono, and emerging meta-frameworks.
   </li>
   <li>
     <a href="https://github.com/acfatah/bun-vue" target="_blank">
-      bun-ts
+      bun-vue
     </a> - Registry for shadcn/ui, which focus on Bun, TypeScript and Vue 3.
   </li>
 </ul>
