@@ -3,18 +3,20 @@
 </div>
 
 <div align="center">
-  <a href="https://vueuse.org"
-    ><img width="80" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vue_js.png" alt="Vue.js" title="Vue.js"/></a>
-  <a href="https://www.typescriptlang.org"
-    ><img width="80" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" alt="TypeScript" title="TypeScript"/></a>
   <a href="https://bun.sh"
     ><img width="80" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bun_js.png" alt="Bun.js" title="Bun.js"/></a>
+  <a href="https://www.typescriptlang.org"
+    ><img width="80" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" alt="TypeScript" title="TypeScript"/></a>
+  <a href="https://vueuse.org"
+    ><img width="80" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vue_js.png" alt="Vue.js" title="Vue.js"/></a>
   <a href="https://m.do.co/c/b70694f7e54f"
     ><img width="80" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/digital_ocean.png" alt="Digital Ocean" title="Digital Ocean"/></a>
+  <a href="https://www.alibabacloud.com/campaign/benefits?referral_code=A92LQ7"
+    ><img width="80" src="https://avatars.githubusercontent.com/u/941070" alt="Alibaba Cloud" title="Alibaba Cloud"/></a>
 </div>
 
 <div align="center">
-  <h3>Vue.js Front-end Specialist | TypeScript Enthusiast | Full-stack Developer</h3>
+  <h3>Full-stack Bun TypeScript Web Developer | Vue.js Front-end Specialist</h3>
 </div>
 
 <p align="center">
