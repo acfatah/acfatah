@@ -63,10 +63,10 @@ like Bun, Hono, and emerging meta-frameworks.
     <!-- <figcaption>Gitlab Private Repository</figcaption> -->
   </figure>
   
-  <h3>CodeTime (2025-07-17)</h3>
+  <h3>CodeTime (2025-12-19)</h3>
   <p>
     <div>
-      <img src="codetime-stats-202507170850.jpg" width="700" />
+      <img src="codetime-stats-202512191213.png" width="700" />
     </div>
   </p>
 
