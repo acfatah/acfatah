@@ -125,30 +125,14 @@ like Bun, Hono, and emerging meta-frameworks.
 - Use AI-assisted programming.
 - Work in a fully TypeScript environment powered by Bun.sh.
 
-<h2>Previous Projects</h2>
+## Previous Projects
 
-<ul>
-  <li>
-    <a href="https://www.org-engine.com" target="_blank">
-      org-engine.com
-    </a> - Company onboarding software
-  </li>
-</ul>
+- [org-engine.com](https://www.org-engine.com) — Company onboarding software
 
-<h1>Templates / Boilerplates</h1>
+## Templates / Boilerplates
 
-<ul>
-  <li>
-    <a href="https://github.com/acfatah/bun-ts" target="_blank">
-      bun-ts
-    </a> - Boilerplate for creating a TypeScript program with Bun.
-  </li>
-  <li>
-    <a href="https://github.com/acfatah/bun-vue" target="_blank">
-      bun-vue
-    </a> - Registry for shadcn/ui, which focus on Bun, TypeScript and Vue 3.
-  </li>
-</ul>
+- [bun-ts](https://github.com/acfatah/bun-ts) — Boilerplate for creating a TypeScript program with Bun.
+- [bun-vue](https://github.com/acfatah/bun-vue) — Registry for shadcn/ui, focused on Bun, TypeScript, and Vue 3.
 
 ## Experience and Skills
 
