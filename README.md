@@ -69,17 +69,6 @@ like Bun, Hono, and emerging meta-frameworks.
       <img src="codetime-stats-202512191213.png" width="700" />
     </div>
   </p>
-
-<!--
-  <h3>Winsurf AI</h3>
-  <p>
-    <div>
-      <a href="https://windsurf.com/profile/acfatah" target="_blank">
-        <img src="https://windsurf.com/profile/acfatah/card.png" width="700" />
-      </a>
-    </div>
-  </p>
--->
 </details>
 
 
@@ -125,14 +114,28 @@ like Bun, Hono, and emerging meta-frameworks.
 - Use AI-assisted programming.
 - Work in a fully TypeScript environment powered by Bun.sh.
 
+## Project or Packages
+
+- [ubuntu-bun-server-setup](https://github.com/acfatah/ubuntu-bun-server-setup) — 
+  Bash script to set up a Bun server on Ubuntu with Nginx reverse proxy and SSL.
+- [packer-digitalocean-bun](https://github.com/acfatah/packer-digitalocean-bun) — 
+  Packer template for creating a DigitalOcean image with Bun pre-installed.
+- [bun-templates](https://github.com/acfatah/bun-templates) — 
+  Boilerplate for creating a TypeScript program with Bun.
+- [bun-vue](https://github.com/acfatah/bun-vue) — 
+  Registry for shadcn/ui, focused on Bun, TypeScript, and Vue 3.
+- [malaysia-postcode-data](https://github.com/acfatah/malaysia-postcodes-data) — 
+  List of Malaysia postcodes data, sorted by the postcode number.
+- [memory-cache](https://github.com/acfatah/memory-cache) — 
+  A simple in-memory cache for bun and nodejs.
+- [eslint-preset](https://github.com/acfatah/eslint-preset) — 
+  My ESLint preset for TypeScript and Vue.js projects.
+- [github-copilot-prompts](https://github.com/acfatah/github-copilot-prompts) — 
+  My curated GitHub Copilot prompts and template snippets for better AI-assisted workflows.
+
 ## Previous Projects
 
 - [org-engine.com](https://www.org-engine.com) — Company onboarding software
-
-## Templates / Boilerplates
-
-- [bun-ts](https://github.com/acfatah/bun-ts) — Boilerplate for creating a TypeScript program with Bun.
-- [bun-vue](https://github.com/acfatah/bun-vue) — Registry for shadcn/ui, focused on Bun, TypeScript, and Vue 3.
 
 ## Experience and Skills
 
