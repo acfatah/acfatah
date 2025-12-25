@@ -136,6 +136,10 @@ like Bun, Hono, and emerging meta-frameworks.
 ## Previous Projects
 
 - [org-engine.com](https://www.org-engine.com) — Company onboarding software
+- [reka-dashboard](https://github.com/acfatah/reka-dashboard) — 
+  Build front-end single page application (SPA) in minutes with TypeScript, Vue and Bun.
+- [vue-shadcn-js](https://github.com/acfatah/vue-shadcn-js) (Archived) — 
+  Streamlining Front-end Development with Modern Tools.
 
 ## Experience and Skills
 
