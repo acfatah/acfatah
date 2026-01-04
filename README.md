@@ -16,7 +16,7 @@
 </div>
 
 <div align="center">
-  <h3>Full-stack Bun TypeScript Web Developer | Vue.js Front-end Specialist</h3>
+  <h3>Vue.js Front-end Specialist | Full-stack Bun TypeScript Web Developer</h3>
 </div>
 
 <p align="center">
