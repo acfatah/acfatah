@@ -28,6 +28,7 @@
     <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
 
+<!--
 I’m a front-end-focused full-stack developer with 4+ years of hands-on 
 experience — self-taught through real-world projects, deep experimentation, and 
 continuous learning.
@@ -40,6 +41,11 @@ deploying servers on DigitalOcean and Alibaba cloud platforms.
 I thrive on optimizing DX, automating workflows, and delivering polished, 
 modular systems — all while staying up to date with the latest technologies 
 like Bun, Hono, and emerging meta-frameworks.
+-->
+
+Front-end engineer with 4+ years of experience building Vue.js applications in production environments.
+Specialized in Vue 3, TypeScript, TailwindCSS, and scalable component architecture.
+Strong experience collaborating with design and backend teams to deliver maintainable, accessible UI.
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=acfatah&theme=github" />
